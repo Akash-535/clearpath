@@ -9,3 +9,10 @@ body {
 .accordionItem.active {
   background-color: #f3f5f6;
 }
+.top-btn {
+  font-size: 1.5rem;
+
+  transform: scale(1.8);
+  opacity: 0;
+  transition: 0.3s;
+}
