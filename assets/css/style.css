@@ -6,3 +6,6 @@ body {
 .font-el-messiri {
   font-family: "El Messiri", sans-serif;
 }
+.accordionItem.active {
+  background-color: #f3f5f6;
+}
